@@ -1,0 +1,6 @@
+     record_id  month    day  ...  species_id  hindfoot_length  weight
+sex                           ...                                     
+F        15690  15690  15690  ...       15690            14894   15303
+M        17348  17348  17348  ...       17348            16476   16879
+
+[2 rows x 8 columns]

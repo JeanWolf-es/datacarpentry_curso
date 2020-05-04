@@ -1,0 +1,28 @@
+    record_id  month  day  year  ...  species_id  sex hindfoot_length  weight
+0           1      7   16  1977  ...          NL    M            32.0     NaN
+1           2      7   16  1977  ...          NL    M            33.0     NaN
+2           3      7   16  1977  ...          DM    F            37.0     NaN
+3           4      7   16  1977  ...          DM    M            36.0     NaN
+4           5      7   16  1977  ...          DM    M            35.0     NaN
+5           6      7   16  1977  ...          PF    M            14.0     NaN
+6           7      7   16  1977  ...          PE    F             NaN     NaN
+7           8      7   16  1977  ...          DM    M            37.0     NaN
+8           9      7   16  1977  ...          DM    F            34.0     NaN
+9          10      7   16  1977  ...          PF    F            20.0     NaN
+10         11      7   16  1977  ...          DS    F            53.0     NaN
+11         12      7   16  1977  ...          DM    M            38.0     NaN
+12         13      7   16  1977  ...          DM    M            35.0     NaN
+13         14      7   16  1977  ...          DM  NaN             NaN     NaN
+14         15      7   16  1977  ...          DM    F            36.0     NaN
+15         16      7   16  1977  ...          DM    F            36.0     NaN
+16         17      7   16  1977  ...          DS    F            48.0     NaN
+17         18      7   16  1977  ...          PP    M            22.0     NaN
+18         19      7   16  1977  ...          PF  NaN             NaN     NaN
+19         20      7   17  1977  ...          DS    F            48.0     NaN
+20         21      7   17  1977  ...          DM    F            34.0     NaN
+21         22      7   17  1977  ...          NL    F            31.0     NaN
+22         23      7   17  1977  ...          DM    M            36.0     NaN
+23         24      7   17  1977  ...          SH    M            21.0     NaN
+24         25      7   17  1977  ...          DM    M            35.0     NaN
+
+[25 rows x 9 columns]

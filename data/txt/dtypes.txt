@@ -1,0 +1,10 @@
+record_id            int64
+month                int64
+day                  int64
+year                 int64
+plot_id              int64
+species_id          object
+sex                 object
+hindfoot_length    float64
+weight             float64
+dtype: object
